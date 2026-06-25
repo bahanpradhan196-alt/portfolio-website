@@ -1,0 +1,63 @@
+*{
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+
+#navbar{
+    height: 60px;
+    background-color: blueviolet;
+}
+a{
+    margin: 50px;
+}
+h1{
+    background-color: black;
+}
+button{
+    color: blue;
+}
+a{
+    text-decoration: none;
+}
+
+label{
+    color: black;
+    font: 20px;
+}
+input{
+    color: black;
+    font: 20px;
+}
+input{
+    color: black;
+    font: 20px;
+}
+h3{
+    color: black;
+    font: 20px;
+}
+textarea{
+    color: black;
+    font: 20px;
+}
+select{
+    color: black;
+    font: 20px;
+}
+option{
+    color: black;
+    font: 20px;
+}
+
+form{
+   background-color: rgb(42, 134, 165);
+}
+input{
+    color: rgb(75, 42, 165);
+    border: none;
+    padding: 20px 30px
+}
+body{
+background-color: lawngreen;
+}
